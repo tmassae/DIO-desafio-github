@@ -1,0 +1,2 @@
+
+Colocar o Git Bash no menu do Windows
